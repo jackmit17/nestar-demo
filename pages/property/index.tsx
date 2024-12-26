@@ -1,5 +1,5 @@
 const PropertyList = () => {
-    console.log("PROPERTY LIST COMPONENT - PAGER ROUTER");
+    console.log("PROPERTY LIST COMPONENT - PAGES ROUTER");
     return <div>PROPERTY LIST</div>;
 };
 

@@ -1,5 +1,5 @@
 const PropertyDetail = () => {
-    console.log("PROPERTY DETAIL COMPONENT - PAGER ROUTER");
+    console.log("PROPERTY DETAIL COMPONENT - PAGES ROUTER");
     return <div>PROPERTY DETAIL</div>;
 };
 
