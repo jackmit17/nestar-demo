@@ -1,7 +1,6 @@
 import { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
-  console.log("DOCUMENT - PAGES ROUTER");
   return (
     <Html lang="en">
       <Head>
@@ -9,7 +8,7 @@ export default function Document() {
         <meta name="title" content="Nestar Demo" />
         <meta name="robots" content="index, follow" />
         <link rel="icon" type="image/png" href="/img/logo/favicon.svg" />
-        
+
         {/* SEO */}
         <meta
           name="keyword"

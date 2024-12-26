@@ -1,6 +1,8 @@
+import withLayoutBasic from "@/libs/components/layout/LayoutBasic";
+import { Container, Stack } from "@mui/material";
+
 const PropertyDetail = () => {
-    console.log("PROPERTY DETAIL COMPONENT - PAGES ROUTER");
-    return <div>PROPERTY DETAIL</div>;
+  return <Container>PROPERTY DETAIL</Container>;
 };
 
-export default PropertyDetail;
+export default withLayoutBasic(PropertyDetail);
