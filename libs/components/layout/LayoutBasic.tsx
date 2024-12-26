@@ -1,5 +1,5 @@
 import { Stack } from "@mui/material";
-import { Head } from "next/document";
+import Head from "next/head";
 
 const withLayoutBasic = (Component: any) => {
   return (props: any) => {
