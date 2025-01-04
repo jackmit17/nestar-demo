@@ -14,7 +14,7 @@ const PopularProperties = () => {
       <Stack className="container">
         <Stack className="info-box">
           <Box className="left">
-            <span>PopularProperties</span>
+            <span>Popular Properties</span>
             <p>Popularity is based on views</p>
           </Box>
           <Box className="right">
